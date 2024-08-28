@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Aug 28 16:52:11 ART 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-0191-9a8b-af57-00001f4fbc28 
+on database directory C:\Users\tomyt\IdeaProjects\Arquitectura Web\MyDerbyDb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+Loaded from file:/C:/Users/tomyt/.m2/repository/org/apache/derby/derby/10.17.1.0/derby-10.17.1.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=21.0.4+7-LTS
+user.dir=C:\Users\tomyt\IdeaProjects\Arquitectura Web
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
